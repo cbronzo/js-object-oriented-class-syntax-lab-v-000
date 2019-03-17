@@ -1,1 +1,1 @@
-class BoardMember
+class BoardMember 
