@@ -1,6 +1,10 @@
 class BoardMember {
   constructor(name, homeState, training) {
-    this.name
+    this.name = name
+    this.homeState = homeState
+    this.training = training
   }
+  
+  
   
 }
